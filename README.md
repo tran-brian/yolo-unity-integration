@@ -1,6 +1,6 @@
 # yolo-unity-integration
 
-##Integration of Darknet YOLO for use in Unity, by passing annotated webcam footage from OpenCV to Unity through P/Invoke.
+## Integration of Darknet YOLO for use in Unity, by passing annotated webcam footage from OpenCV to Unity through P/Invoke.
 
 ### Notes:
 * There is currently a ton of commented and test code that will be cleaned at a later date
